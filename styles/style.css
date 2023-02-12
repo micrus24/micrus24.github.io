@@ -1,0 +1,62 @@
+body {
+    font-family: "KoHo", sans-serif;
+}
+
+nav {
+    background-color: #F0CAA3;
+}
+
+.navbar {
+    padding: 1% 5%;
+    text-align: center;
+}
+
+.container-fluid{
+    padding: 5%;
+    text-align: center
+}
+
+#title {
+    background-color: #C060A1;
+    color: #F0CAA3;
+}
+
+h1 {
+    font-size: 5rem;
+}
+
+.title-text {
+    font-size: 2rem;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    text-align: left;
+}
+
+.my-id-photo {
+    width: 50%;
+}
+
+.carousel-inner img {
+    margin: auto;
+    width: 30%;
+}
+
+.carousel-item-photo{
+    width: auto;
+  }
+
+#carousela {
+    background-color: #3B185F;
+    color: #C060A1;
+    
+}
+
+#work {
+    background-color: #00005C;
+    color: #C060A1;
+}
+
+#footer {
+    background-color: #F0CAA3;
+    text-align: center;
+}
